@@ -1,0 +1,9 @@
+{
+  "name": "fitmatch-ai",
+  "version": "1.0.0",
+  "scripts": {
+    "install:all": "cd client && npm install && cd ../server && npm install",
+    "dev:server": "cd server && npm run dev",
+    "dev:client": "cd client && npm run dev"
+  }
+}

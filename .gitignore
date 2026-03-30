@@ -1,0 +1,12 @@
+node_modules/
+client/node_modules/
+server/node_modules/
+
+# Environment variables - never commit API keys
+server/.env
+
+# Build output
+client/dist/
+
+# Logs
+*.log
