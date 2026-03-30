@@ -4,9 +4,9 @@ Upload a clothing item photo and get AI-powered style inspiration.
 
 ## Setup
 
-1. Add your Anthropic API key to `server/.env`:
+1. Add your OpenAI API key to `server/.env`:
    ```
-   ANTHROPIC_API_KEY=sk-ant-...
+   OPENAI_API_KEY=sk-...
    ```
 
 2. Install dependencies:
